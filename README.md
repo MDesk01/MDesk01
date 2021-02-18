@@ -1,4 +1,6 @@
 ## Bem Vindo ao meu PERFIL no GitHub !!<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDesk01&theme=dark&show_icons=true)<br>
+
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDesk01) &nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-augusto-994a9a181/) &nbsp;
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus.augustow/) &nbsp;
@@ -16,5 +18,3 @@
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) &nbsp;
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) &nbsp;
 ![]() &nbsp;
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDesk01&show_icons=true&theme=radical)
