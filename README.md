@@ -17,4 +17,4 @@
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) &nbsp;
 ![]() &nbsp;
 
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MDesk01&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDesk01&show_icons=true&theme=radical)
