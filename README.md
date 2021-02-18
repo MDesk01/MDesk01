@@ -1,2 +1,2 @@
 <p>Página de perfil em construção ⚠️</p>
-<button>teste</button>
+<button type="button">teste</button>
