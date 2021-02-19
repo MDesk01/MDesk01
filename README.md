@@ -1,7 +1,7 @@
 ## ⚜️ Bem Vindo(a) | Welcome to my GitHub Profile ⚜️<br>
 ##### 🔰 Brasil | Brazil <br>
 ##### 🔰 Aracaju - Sergipe <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDesk01&theme=dark&show_icons=true)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDesk01&theme=dark&show_icons=true) &nbsp; ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MDesk01&theme=blue-green)
 
 #### ⭐️ Redes Sociais | Social Media
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDesk01) &nbsp;
