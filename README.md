@@ -1,7 +1,7 @@
 ## ⚜️ Bem Vindo(a) | Welcome to my GitHub Profile ⚜️
 ##### 🔰 Brasil - Aracaju - Sergipe
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MDesk01&theme=dark&show_icons=true) &nbsp; ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=MDesk01&theme=blue-green)<br>
-[![Generic badge](https://img.shields.io/badge/Status-Ativo-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Desenvolvedor-Frontend-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-Ativo-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Desenvolvedor-Frontend-red.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Desde(since)-2020-yellow.svg)](https://shields.io/)
  ![Profile views](https://gpvc.arturio.dev/MDesk01) [![GitHub followers](https://img.shields.io/github/followers/MDesk01.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/MDesk01?tab=followers)
 
 #### ⭐️ Redes Sociais | Social Media
