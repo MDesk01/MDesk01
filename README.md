@@ -23,3 +23,5 @@
 #### ⭐️ Habilidades em desenvolvimento | Skills in development
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) &nbsp;
 ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white) &nbsp;
+[![Generic badge](https://img.shields.io/badge/UI / UX-DESIGN-red.svg)](https://shields.io/)
+
